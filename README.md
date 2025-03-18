@@ -5,3 +5,5 @@
 - 🌱 Currently working with Vue.js and learning Yii
 - 💬 Open to collaborating on multiple projects
 - 📫 Reach me via email: herzdehhdelacalzada@gmail.com
+
+<!-- I'm a Noob!-->
